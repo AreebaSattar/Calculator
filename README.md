@@ -1,6 +1,6 @@
 # Calculator
 
-![Calculator](calculator.png)
+![Calculator](calculator.PNG)
 
 ## Description
 
@@ -23,7 +23,7 @@ The Calculator is a simple web application that provides basic arithmetic operat
 
 ## Screenshots
 
-![Calculator Screenshot](calculator.png)
+![Calculator Screenshot](calculator.PNG)
 
 ## Technologies Used
 
