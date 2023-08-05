@@ -29,12 +29,4 @@ The Calculator is a simple web application that provides basic arithmetic operat
 
 - HTML, CSS, JavaScript
 
-## Credits
-
-This web application was created as a part of the [Final Year Project Name] by [Your Name]. It is a simple demonstration of basic arithmetic operations using JavaScript.
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 Feel free to use, modify, and contribute to this open-source project!
